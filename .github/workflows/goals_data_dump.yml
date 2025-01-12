@@ -1,0 +1,57 @@
+on:
+  workflow_dispatch:
+    inputs:
+      goals_json:
+        description: 'Goals JSON content'
+        required: true
+        type: string
+
+jobs:
+  create-json-file:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Create timestamp and directory
+        id: prepare
+        run: |
+          timestamp=$(date -u +"%Y%m%d_%H%M%S")
+          mkdir -p data/2025_goals
+          echo "timestamp=$timestamp" >> $GITHUB_OUTPUT
+          
+      - name: Validate and format JSON
+        run: |
+          python3 -c '
+          import json
+          import sys
+          
+          try:
+              # Parse and format the JSON
+              json_data = json.loads("""${{ inputs.goals_json }}""")
+              formatted_json = json.dumps(json_data, indent=2, sort_keys=True)
+              
+              # Write to file
+              with open("data/2025_goals/${{ steps.prepare.outputs.timestamp }}.json", "w") as f:
+                  f.write(formatted_json)
+              
+          except json.JSONDecodeError as e:
+              print(f"Error: Invalid JSON provided\n{str(e)}")
+              sys.exit(1)
+          '
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/2025_goals/${{ steps.prepare.outputs.timestamp }}.json
+          git commit -m "Add goals JSON file for ${{ steps.prepare.outputs.timestamp }}"
+          git push
