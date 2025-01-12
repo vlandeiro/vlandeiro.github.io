@@ -1,9 +1,11 @@
+name: Dump 2025 Goals to JSON File
+
 on:
   workflow_dispatch:
     inputs:
       goals_json:
         description: 'Goals JSON content'
-        required: true
+        required: true.
         type: string
 
 jobs:
