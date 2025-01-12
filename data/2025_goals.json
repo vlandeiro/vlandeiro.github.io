@@ -1,0 +1,74 @@
+{
+  "inputs": [
+    {
+      "category": "500km of indoor rowing",
+      "notes": "3000m",
+      "timestamp": "2025-01-04T11:48:40-08:00"
+    },
+    {
+      "category": "500km of indoor rowing",
+      "notes": "3000m",
+      "timestamp": "2025-01-02T08:00:00-08:00"
+    },
+    {
+      "category": "Maintain fitness level",
+      "notes": "Ski: 4 hours",
+      "timestamp": "2025-01-09T09:30:00-08:00"
+    },
+    {
+      "category": "Maintain fitness level",
+      "notes": "Ski: 3 hours",
+      "timestamp": "2025-01-08T09:00:00-08:00"
+    },
+    {
+      "category": "Maintain fitness level",
+      "notes": "Ski: 3 hours",
+      "timestamp": "2025-01-07T10:00:00-08:00"
+    },
+    {
+      "category": "Maintain fitness level",
+      "notes": "Ski: 5 hours",
+      "timestamp": "2025-01-10T10:00:00-08:00"
+    },
+    {
+      "category": "Maintain fitness level",
+      "notes": "Yoga: 25 minutes",
+      "timestamp": "2024-12-29T13:35:41-06:00"
+    },
+    {
+      "category": "Weekly outdoor activity with the fam",
+      "notes": "Ski trip to Sun Peaks, BC",
+      "timestamp": "2025-01-06T07:34:00-08:00"
+    },
+    {
+      "category": "Maintain home cooked meals",
+      "notes": "Raclette",
+      "timestamp": "2025-01-10T19:33:00-08:00"
+    },
+    {
+      "category": "Maintain home cooked meals",
+      "notes": "Coconut and chickpea soup",
+      "timestamp": "2025-01-09T19:32:00-08:00"
+    },
+    {
+      "category": "Maintain home cooked meals",
+      "notes": "Crunchwrap supreme",
+      "timestamp": "2025-01-07T19:31:00-08:00"
+    },
+    {
+      "category": "Maintain home cooked meals",
+      "notes": "Fried rice",
+      "timestamp": "2025-01-04T19:15:11-08:00"
+    },
+    {
+      "category": "Maintain home cooked meals",
+      "notes": "Leak and potato soup",
+      "timestamp": "2025-01-03T22:06:55-08:00"
+    },
+    {
+      "category": "Practice trading 5 hours per week",
+      "notes": "Programming charts with Altair: 2 hours",
+      "timestamp": "2025-01-07T17:00:00-08:00"
+    }
+  ]
+}
