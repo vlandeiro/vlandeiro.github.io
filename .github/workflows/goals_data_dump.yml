@@ -23,12 +23,10 @@ jobs:
         with:
           python-version: '3.11'
           
-      - name: Create timestamp and directory
+      - name: Create directory
         id: prepare
         run: |
-          timestamp=$(date -u +"%Y%m%d_%H%M%S")
-          mkdir -p data/2025_goals
-          echo "timestamp=$timestamp" >> $GITHUB_OUTPUT
+          mkdir -p data
           
       - name: Validate and format JSON
         run: |
@@ -42,7 +40,7 @@ jobs:
               formatted_json = json.dumps(json_data, indent=2, sort_keys=True)
               
               # Write to file
-              with open("data/2025_goals/${{ steps.prepare.outputs.timestamp }}.json", "w") as f:
+              with open("data/2025_goals.json", "w") as f:
                   f.write(formatted_json)
               
           except json.JSONDecodeError as e:
@@ -54,6 +52,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/2025_goals/${{ steps.prepare.outputs.timestamp }}.json
-          git commit -m "Add goals JSON file for ${{ steps.prepare.outputs.timestamp }}"
+          git add data/2025_goals.json
+          git commit -m "Update goals JSON file"
           git push
