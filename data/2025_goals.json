@@ -2,6 +2,11 @@
   "inputs": [
     {
       "category": "500km of indoor rowing",
+      "notes": "4500m",
+      "timestamp": "2025-01-13T08:42:58-08:00"
+    },
+    {
+      "category": "500km of indoor rowing",
       "notes": "3000m",
       "timestamp": "2025-01-04T11:48:40-08:00"
     },
@@ -39,6 +44,11 @@
       "category": "Weekly outdoor activity with the fam",
       "notes": "Ski trip to Sun Peaks, BC",
       "timestamp": "2025-01-06T07:34:00-08:00"
+    },
+    {
+      "category": "Maintain home cooked meals",
+      "notes": "Tartiflette",
+      "timestamp": "2025-01-12T13:28:00-08:00"
     },
     {
       "category": "Maintain home cooked meals",
