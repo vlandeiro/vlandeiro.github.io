@@ -2,6 +2,11 @@
   "inputs": [
     {
       "category": "Indoor rowing",
+      "notes": "3000m",
+      "timestamp": "2025-01-15T09:00:00-08:00"
+    },
+    {
+      "category": "Indoor rowing",
       "notes": "4500m",
       "timestamp": "2025-01-13T08:42:58-08:00"
     },
@@ -74,6 +79,11 @@
       "category": "Home cooked meals",
       "notes": "Leak and potato soup",
       "timestamp": "2025-01-03T22:06:55-08:00"
+    },
+    {
+      "category": "Trading",
+      "notes": "Started SvelteKit interactive tutorial (1 hour)",
+      "timestamp": "2025-01-15T17:10:21-08:00"
     },
     {
       "category": "Trading",
