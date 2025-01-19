@@ -2,6 +2,11 @@
   "inputs": [
     {
       "category": "Indoor rowing",
+      "notes": "4000m",
+      "timestamp": "2025-01-19T09:00:05-08:00"
+    },
+    {
+      "category": "Indoor rowing",
       "notes": "3000m",
       "timestamp": "2025-01-15T09:00:00-08:00"
     },
@@ -19,6 +24,11 @@
       "category": "Indoor rowing",
       "notes": "3000m",
       "timestamp": "2025-01-02T08:00:00-08:00"
+    },
+    {
+      "category": "Fitness level",
+      "notes": "Indoor soccer (2 hours)",
+      "timestamp": "2025-01-17T15:05:29-08:00"
     },
     {
       "category": "Fitness level",
@@ -47,8 +57,28 @@
     },
     {
       "category": "Outdoor activity with the fam",
+      "notes": "Walk to Seward Park ",
+      "timestamp": "2025-01-16T18:27:44-08:00"
+    },
+    {
+      "category": "Outdoor activity with the fam",
       "notes": "Ski trip to Sun Peaks, BC",
       "timestamp": "2025-01-06T07:34:00-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Soba noodles soup with veggies and tofu",
+      "timestamp": "2025-01-16T18:28:09-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Burrito",
+      "timestamp": "2025-01-16T12:38:30-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Tofu spring rolls",
+      "timestamp": "2025-01-14T19:00:00-08:00"
     },
     {
       "category": "Home cooked meals",
@@ -82,6 +112,11 @@
     },
     {
       "category": "Trading",
+      "notes": "Fighting with Svelte and TV Lightweight Charts (1.5 hours)",
+      "timestamp": "2025-01-16T15:55:10-08:00"
+    },
+    {
+      "category": "Trading",
       "notes": "Started SvelteKit interactive tutorial (1 hour)",
       "timestamp": "2025-01-15T17:10:21-08:00"
     },
@@ -94,6 +129,16 @@
       "category": "Trading",
       "notes": "Programming charts with Altair (2 hours)",
       "timestamp": "2025-01-07T17:00:00-08:00"
+    },
+    {
+      "category": "Job applications",
+      "notes": "OfferFit: MLE",
+      "timestamp": "2025-01-16T09:56:14-08:00"
+    },
+    {
+      "category": "Job applications",
+      "notes": "D-Wave Systems: Senior Python Application Developer",
+      "timestamp": "2025-01-16T09:51:42-08:00"
     },
     {
       "category": "Job applications",
