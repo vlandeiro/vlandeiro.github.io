@@ -2,6 +2,86 @@
   "inputs": [
     {
       "category": "Indoor rowing",
+      "notes": "7000m",
+      "timestamp": "2025-03-22T19:06:11-07:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "3200m",
+      "timestamp": "2025-03-19T08:13:37-07:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "7000m",
+      "timestamp": "2025-03-17T08:38:14-07:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "5000m",
+      "timestamp": "2025-03-15T19:03:00-07:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "7000m",
+      "timestamp": "2025-03-02T07:34:34-08:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "6500m",
+      "timestamp": "2025-02-27T08:25:42-08:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "3000m",
+      "timestamp": "2025-02-25T08:47:41-08:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "6500m",
+      "timestamp": "2025-02-21T08:52:00-08:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "6000m",
+      "timestamp": "2025-02-06T08:22:23-08:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "4000m",
+      "timestamp": "2025-02-05T07:49:45-08:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "6000m",
+      "timestamp": "2025-02-03T09:01:40-08:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "5500m",
+      "timestamp": "2025-02-02T12:02:12-08:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "3000m",
+      "timestamp": "2025-01-30T09:02:01-08:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "5500m",
+      "timestamp": "2025-01-27T16:52:11-08:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "3000m",
+      "timestamp": "2025-01-23T08:59:16-08:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "5000m",
+      "timestamp": "2025-01-20T08:49:32-08:00"
+    },
+    {
+      "category": "Indoor rowing",
       "notes": "4000m",
       "timestamp": "2025-01-19T09:00:05-08:00"
     },
@@ -24,6 +104,36 @@
       "category": "Indoor rowing",
       "notes": "3000m",
       "timestamp": "2025-01-02T08:00:00-08:00"
+    },
+    {
+      "category": "Indoor rowing",
+      "notes": "5000m",
+      "timestamp": "2025-01-26T09:23:35-08:00"
+    },
+    {
+      "category": "Fitness level",
+      "notes": "Indoor pickup soccer (2.5 hours)",
+      "timestamp": "2025-02-07T12:30:00-08:00"
+    },
+    {
+      "category": "Fitness level",
+      "notes": "Indoor soccer (1.75 hours)",
+      "timestamp": "2025-01-31T12:30:00-08:00"
+    },
+    {
+      "category": "Fitness level",
+      "notes": "Indoor soccer",
+      "timestamp": "2025-01-24T12:37:00-08:00"
+    },
+    {
+      "category": "Fitness level",
+      "notes": "Ski at Crystal Mountain",
+      "timestamp": "2025-01-28T20:35:40-08:00"
+    },
+    {
+      "category": "Fitness level",
+      "notes": "Ski at Snoqualmie",
+      "timestamp": "2025-01-22T13:05:05-08:00"
     },
     {
       "category": "Fitness level",
@@ -57,13 +167,193 @@
     },
     {
       "category": "Outdoor activity with the fam",
-      "notes": "Walk to Seward Park ",
+      "notes": "Walk in Bellevue",
+      "timestamp": "2025-03-22T14:06:00-07:00"
+    },
+    {
+      "category": "Outdoor activity with the fam",
+      "notes": "Alki walk: saw orcas, seals, beavers",
+      "timestamp": "2025-03-01T10:58:00-08:00"
+    },
+    {
+      "category": "Outdoor activity with the fam",
+      "notes": "Neighborhood walk",
+      "timestamp": "2025-02-23T12:32:27-08:00"
+    },
+    {
+      "category": "Outdoor activity with the fam",
+      "notes": "Trip to French Polynesia ",
+      "timestamp": "2025-02-10T08:30:00-10:00"
+    },
+    {
+      "category": "Outdoor activity with the fam",
+      "notes": "Neighborhood walk",
+      "timestamp": "2025-02-04T16:30:00-08:00"
+    },
+    {
+      "category": "Outdoor activity with the fam",
+      "notes": "Neighborhood walk",
+      "timestamp": "2025-01-30T19:03:47-08:00"
+    },
+    {
+      "category": "Outdoor activity with the fam",
+      "notes": "Walk in Seward",
+      "timestamp": "2025-01-25T17:40:59-08:00"
+    },
+    {
+      "category": "Outdoor activity with the fam",
+      "notes": "Neighborhood walk",
+      "timestamp": "2025-01-19T14:08:46-08:00"
+    },
+    {
+      "category": "Outdoor activity with the fam",
+      "notes": "Pique nique on the lake and walk in Magnusson park",
+      "timestamp": "2025-01-18T13:00:00-08:00"
+    },
+    {
+      "category": "Outdoor activity with the fam",
+      "notes": "Walk in Seward Park ",
       "timestamp": "2025-01-16T18:27:44-08:00"
     },
     {
       "category": "Outdoor activity with the fam",
       "notes": "Ski trip to Sun Peaks, BC",
       "timestamp": "2025-01-06T07:34:00-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Pork larb with rice",
+      "timestamp": "2025-03-22T20:07:00-07:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Pork buns with cucumber salad",
+      "timestamp": "2025-03-02T22:09:30-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Chicken with shallot sauce and brocolis",
+      "timestamp": "2025-02-27T20:01:00-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Mushroom quiche",
+      "timestamp": "2025-02-28T12:00:00-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Chorizo quesadillas",
+      "timestamp": "2025-02-28T19:00:00-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Pasta carbonara ",
+      "timestamp": "2025-02-23T12:32:11-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Beef cheek stew",
+      "timestamp": "2025-02-22T19:08:00-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Raviolis in beef consomm\u00e9 ",
+      "timestamp": "2025-02-20T18:54:00-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Veggie wrap",
+      "timestamp": "2025-02-21T18:54:19-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Ragu Pasta",
+      "timestamp": "2025-02-06T12:47:49-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Cheese quiche with roasted cauliflower",
+      "timestamp": "2025-02-05T17:14:41-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Homemade mac&cheese",
+      "timestamp": "2025-02-04T19:49:00-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Beets salad",
+      "timestamp": "2025-02-04T12:10:00-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Cr\u00eapes",
+      "timestamp": "2025-02-02T08:59:00-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Ragu pasta",
+      "timestamp": "2025-02-01T18:54:00-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Huevos rancheros",
+      "timestamp": "2025-02-01T09:41:35-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Steak tacos",
+      "timestamp": "2025-01-31T17:41:00-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Focaccia",
+      "timestamp": "2025-01-30T19:03:34-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Pasta",
+      "timestamp": "2025-01-30T13:49:17-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Grilled chicken with spinach ",
+      "timestamp": "2025-01-29T18:27:44-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Tuna salad",
+      "timestamp": "2025-01-29T13:02:56-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Mushroom pasta",
+      "timestamp": "2025-01-27T17:57:25-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Fried spring rolls",
+      "timestamp": "2025-01-27T12:57:00-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "P\u00e2tes aux sardines",
+      "timestamp": "2025-01-25T17:41:14-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Chicken burrito",
+      "timestamp": "2025-01-23T19:32:35-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Eggplants and garlic tzatziki with couscous ",
+      "timestamp": "2025-01-19T19:27:19-08:00"
+    },
+    {
+      "category": "Home cooked meals",
+      "notes": "Spinach tortellini with sauce",
+      "timestamp": "2025-01-19T13:15:19-08:00"
     },
     {
       "category": "Home cooked meals",
@@ -112,6 +402,41 @@
     },
     {
       "category": "Trading",
+      "notes": "Updated the UI to show three different time frames in tabs (3.5 hours)",
+      "timestamp": "2025-02-05T15:56:19-08:00"
+    },
+    {
+      "category": "Trading",
+      "notes": "Updated api to support a timeframe parameter. Making progress on UI to display a triple screen system (2 hours)",
+      "timestamp": "2025-02-04T21:50:44-08:00"
+    },
+    {
+      "category": "Trading",
+      "notes": "Updating the API to make OHLCV an indicator and enable plotting the impulse system as part of the basic bar data (2 hours)",
+      "timestamp": "2025-02-02T20:18:42-08:00"
+    },
+    {
+      "category": "Trading",
+      "notes": "Simple connection between the python data api and the Svelte frontend (2 hours)",
+      "timestamp": "2025-01-23T13:29:51-08:00"
+    },
+    {
+      "category": "Trading",
+      "notes": "Fought with Protobuf, replaced Protobuf with Pydantic types + FastAPI, created simple API backed by Polars DF to retrieve OHLCV data and indicator results (6 hours)",
+      "timestamp": "2025-01-21T21:36:56-08:00"
+    },
+    {
+      "category": "Trading",
+      "notes": "Working on internal data API, starting to move types to protobuf (2.5 hours)",
+      "timestamp": "2025-01-20T16:00:00-08:00"
+    },
+    {
+      "category": "Trading",
+      "notes": "Successfully created two Svelte components to support trading view lightweight charts (2 hours)",
+      "timestamp": "2025-01-19T16:00:00-08:00"
+    },
+    {
+      "category": "Trading",
       "notes": "Fighting with Svelte and TV Lightweight Charts (1.5 hours)",
       "timestamp": "2025-01-16T15:55:10-08:00"
     },
@@ -129,6 +454,71 @@
       "category": "Trading",
       "notes": "Programming charts with Altair (2 hours)",
       "timestamp": "2025-01-07T17:00:00-08:00"
+    },
+    {
+      "category": "ML",
+      "notes": "Implement data loader and simple feed forward network with PyTorch (3 hours)",
+      "timestamp": "2025-02-03T18:04:41-08:00"
+    },
+    {
+      "category": "ML",
+      "notes": "RecSys ramp up (1.5 hours)",
+      "timestamp": "2025-02-02T13:07:00-08:00"
+    },
+    {
+      "category": "Baking",
+      "notes": "Galette des rois ",
+      "timestamp": "2025-01-26T15:29:44-08:00"
+    },
+    {
+      "category": "Job applications",
+      "notes": "Senior Machine Learning Engineer - Platform @ Gusto",
+      "timestamp": "2025-01-26T12:24:54-08:00"
+    },
+    {
+      "category": "Job applications",
+      "notes": "Lead AI / ML Engineer @ Consumer Reports",
+      "timestamp": "2025-01-26T12:20:01-08:00"
+    },
+    {
+      "category": "Job applications",
+      "notes": "AI/ML Software Engineer @ IBM",
+      "timestamp": "2025-01-26T12:11:56-08:00"
+    },
+    {
+      "category": "Job applications",
+      "notes": "MLOps Engineer - Remote - USA @ Fullstack Labs",
+      "timestamp": "2025-01-26T12:00:17-08:00"
+    },
+    {
+      "category": "Job applications",
+      "notes": "Senior / Lead ML Tooling Software Engineer @ Atlas AI",
+      "timestamp": "2025-01-26T11:49:50-08:00"
+    },
+    {
+      "category": "Job applications",
+      "notes": "Senior Software Engineer, Backend (ML Platform) @ Affirm",
+      "timestamp": "2025-01-26T11:44:26-08:00"
+    },
+    {
+      "category": "Job applications",
+      "notes": "Senior Software Engineer II, Machine Learning @ Etsy",
+      "timestamp": "2025-01-26T11:40:43-08:00"
+    },
+    {
+      "category": "Job applications",
+      "notes": "Senior ML Infrastructure Engineer - MLOps @ Quince",
+      "timestamp": "2025-01-26T11:35:07-08:00"
+    },
+    {
+      "category": "Job applications",
+      "notes": "Senior Applied Machine Learning Engineer @ Vanta",
+      "timestamp": "2025-01-26T11:31:57-08:00"
+    },
+    {
+      "category": "Job applications",
+      "notes": "Research Engineer - Arsenal FC",
+      "timestamp": "2025-01-26T11:08:49-08:00"
     },
     {
       "category": "Job applications",
@@ -149,6 +539,11 @@
       "category": "Job applications",
       "notes": "GoldBelly ",
       "timestamp": "2025-01-13T19:20:26-08:00"
+    },
+    {
+      "category": "Family meet ups",
+      "notes": "Video call with parents",
+      "timestamp": "2025-01-18T09:30:00-08:00"
     }
   ]
 }
